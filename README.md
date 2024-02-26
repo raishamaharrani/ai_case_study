@@ -34,25 +34,25 @@ Project 2: Another area of research can be answering questions that can help us 
 OpenAI can use extensive research through deep learning and pattern recognition to understand the needs of today’s generation and propose solutions that cater to those needs accordingly.  
  
 ## References
-1 https://openai.com/about
+1 OpenAI: https://openai.com/about
 
-2 https://www.coursera.org/articles/what-is-openai
+2 Coursera: https://www.coursera.org/articles/what-is-openai
 
-3 https://openai.com/blog/openai-lp
+3 OpenAI: https://openai.com/blog/openai-lp
 
-4 https://www.nytimes.com/2024/02/16/technology/openai-artificial-intelligence-deal-valuation.html
+4 Metz & Mickle: https://www.nytimes.com/2024/02/16/technology/openai-artificial-intelligence-deal-valuation.html
 
-5 https://openai.com/about
+5 OpenAI: https://openai.com/about
 
-6 https://www.valuecoders.com/blog/ai-ml/openai-in-business-benefits-and-uses/#:~:text=Competitive%20Edge%3A&text=OpenAI%20provides%20a%20competitive%20advantage,changes%20and%20customer%20demands%20swiftly
+6 AlanC : https://www.valuecoders.com/blog/ai-ml/openai-in-business-benefits-and-uses/#:~:text=Competitive%20Edge%3A&text=OpenAI%20provides%20a%20competitive%20advantage,changes%20and%20customer%20demands%20swiftly
 
-7 https://www.linkedin.com/pulse/tech-stack-used-chatgpt-kedar-dixit
+7 KedarD: https://www.linkedin.com/pulse/tech-stack-used-chatgpt-kedar-dixit
 
-8 https://www2.deloitte.com/us/en/insights/topics/digital-transformation/companies-investing-in-ai-to-generate-value.html?id=us:2ps:3gl:digenai24:awa:di:011024:ai%20companies:b:c:kwd-298958182465&gad_source=1&gclid=CjwKCAiA_tuuBhAUEiwAvxkgTsOOL3sXLwPOnkW-SAxWAlh-8NPpANjZdNERhMv5RSmdzXvcHTaMExoCpE8QAvD_BwE
+8 B.Sniderman,D.Kearns-manolatos,N.Mittal: https://www2.deloitte.com/us/en/insights/topics/digital-transformation/companies-investing-in-ai-to-generate-value.html?id=us:2ps:3gl:digenai24:awa:di:011024:ai%20companies:b:c:kwd-298958182465&gad_source=1&gclid=CjwKCAiA_tuuBhAUEiwAvxkgTsOOL3sXLwPOnkW-SAxWAlh-8NPpANjZdNERhMv5RSmdzXvcHTaMExoCpE8QAvD_BwE
 
-9 https://openai.com/blog/our-approach-to-alignment-research
+9 OpenAI: https://openai.com/blog/our-approach-to-alignment-research
 
-10 https://blog.google/technology/ai/google-gemini-ai/#introducing-gemini
+10 GoogleBlog: https://blog.google/technology/ai/google-gemini-ai/#introducing-gemini
 
-11 https://www.forbes.com/sites/deloitte/2021/07/22/for-millennials-and-gen-zs-social-issues-are-top-of-mind-heres-how-organizations-can-drive-meaningful-change/?sh=2db2623f450c
+11 Forbes: https://www.forbes.com/sites/deloitte/2021/07/22/for-millennials-and-gen-zs-social-issues-are-top-of-mind-heres-how-organizations-can-drive-meaningful-change/?sh=2db2623f450c
   
