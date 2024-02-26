@@ -26,33 +26,33 @@ OpenAI has had a substantial business impact by advancing the state of the art i
 ## Recommendations
 As someone learning about AI and impacted by AI, I see the potential in using new technologies to build solutions. If we can build responsible AI technologies, we can utilize this resource to implement changes that can help us nurture ideas leading the world toward a better, more positive future. OpenAI claims to be working for the betterment of humanity by focusing on building responsible AI. With that in mind, here are my few research topic recommendations that could help OpenAi achieve the company's mission.  
 
-Project 1: Rapid Process Improvements Solutions for systems that impact day-to-day lives. 
+* Project 1: Rapid Process Improvements Solutions for systems that impact day-to-day lives. 
 Some significant issues are public systems and processes within education, healthcare, agriculture, housing, labor, tax, etc. How can we make these systems function better? Can AI analyze the data available to look for pain points and improvement opportunities in the current generational old systems and processes to suggest effective and influential solutions to improve their function? These systems and processes, if made better, can significantly impact the progress as a collective. We use these systems and processes day in and day out. Therefore, we must find ways to make them efficient and not tedious and nerve-racking. 
 
-Project 2: Another area of research can be answering questions that can help us find solutions to elevate collective well-being. The Post-pandemic world is different; people's perspectives towards life and the world around them have changed significantly. People are more conscious of their well-being and how they live, work, and connect. The world is different. The generation who grew up along with technology - millennials and Gen Z are demanding more regarding how technology is being utilized. This generation is aware of the capabilities of technology in making life easier; however, they are now interested in utilizing technology for the better. This generation seeks solutions to bring meaningful changes and drive positive impact.” Millennials and Gen Zs are taking action to drive the change they want to see in the world. They are becoming more politically involved, making a conscious effort to ensure they spend their money with companies that reflect their values and pushing for change on societal issues. They believe in their power to make a difference but demand that businesses and governments do their part to help build a better future.” ([Forbes](https://www.forbes.com/sites/deloitte/2021/07/22/for-millennials-and-gen-zs-social-issues-are-top-of-mind-heres-how-organizations-can-drive-meaningful-change/?sh=2db2623f450c))
+* Project 2: Another area of research can be answering questions that can help us find solutions to elevate collective well-being. The Post-pandemic world is different; people's perspectives towards life and the world around them have changed significantly. People are more conscious of their well-being and how they live, work, and connect. The world is different. The generation who grew up along with technology - millennials and Gen Z are demanding more regarding how technology is being utilized. This generation is aware of the capabilities of technology in making life easier; however, they are now interested in utilizing technology for the better. This generation seeks solutions to bring meaningful changes and drive positive impact.” Millennials and Gen Zs are taking action to drive the change they want to see in the world. They are becoming more politically involved, making a conscious effort to ensure they spend their money with companies that reflect their values and pushing for change on societal issues. They believe in their power to make a difference but demand that businesses and governments do their part to help build a better future.” ([Forbes](https://www.forbes.com/sites/deloitte/2021/07/22/for-millennials-and-gen-zs-social-issues-are-top-of-mind-heres-how-organizations-can-drive-meaningful-change/?sh=2db2623f450c))
 
 OpenAI can use extensive research through deep learning and pattern recognition to understand the needs of today’s generation and propose solutions that cater to those needs accordingly.  
  
 ## References
-1 OpenAI: https://openai.com/about
+1. OpenAI: https://openai.com/about
 
-2 Coursera: https://www.coursera.org/articles/what-is-openai
+2. Coursera: https://www.coursera.org/articles/what-is-openai
 
-3 OpenAI: https://openai.com/blog/openai-lp
+3. OpenAI: https://openai.com/blog/openai-lp
 
-4 Metz & Mickle: https://www.nytimes.com/2024/02/16/technology/openai-artificial-intelligence-deal-valuation.html
+4. Metz & Mickle: https://www.nytimes.com/2024/02/16/technology/openai-artificial-intelligence-deal-valuation.html
 
-5 OpenAI: https://openai.com/about
+5. OpenAI: https://openai.com/about
 
-6 AlanC : https://www.valuecoders.com/blog/ai-ml/openai-in-business-benefits-and-uses/#:~:text=Competitive%20Edge%3A&text=OpenAI%20provides%20a%20competitive%20advantage,changes%20and%20customer%20demands%20swiftly
+6. AlanC : https://www.valuecoders.com/blog/ai-ml/openai-in-business-benefits-and-uses/#:~:text=Competitive%20Edge%3A&text=OpenAI%20provides%20a%20competitive%20advantage,changes%20and%20customer%20demands%20swiftly
 
-7 KedarD: https://www.linkedin.com/pulse/tech-stack-used-chatgpt-kedar-dixit
+7. KedarD: https://www.linkedin.com/pulse/tech-stack-used-chatgpt-kedar-dixit
 
-8 B.Sniderman,D.Kearns-manolatos,N.Mittal: https://www2.deloitte.com/us/en/insights/topics/digital-transformation/companies-investing-in-ai-to-generate-value.html?id=us:2ps:3gl:digenai24:awa:di:011024:ai%20companies:b:c:kwd-298958182465&gad_source=1&gclid=CjwKCAiA_tuuBhAUEiwAvxkgTsOOL3sXLwPOnkW-SAxWAlh-8NPpANjZdNERhMv5RSmdzXvcHTaMExoCpE8QAvD_BwE
+8. B.Sniderman,D.Kearns-manolatos,N.Mittal: https://www2.deloitte.com/us/en/insights/topics/digital-transformation/companies-investing-in-ai-to-generate-value.html?id=us:2ps:3gl:digenai24:awa:di:011024:ai%20companies:b:c:kwd-298958182465&gad_source=1&gclid=CjwKCAiA_tuuBhAUEiwAvxkgTsOOL3sXLwPOnkW-SAxWAlh-8NPpANjZdNERhMv5RSmdzXvcHTaMExoCpE8QAvD_BwE
 
-9 OpenAI: https://openai.com/blog/our-approach-to-alignment-research
+9. OpenAI: https://openai.com/blog/our-approach-to-alignment-research
 
-10 GoogleBlog: https://blog.google/technology/ai/google-gemini-ai/#introducing-gemini
+10. GoogleBlog: https://blog.google/technology/ai/google-gemini-ai/#introducing-gemini
 
-11 Forbes: https://www.forbes.com/sites/deloitte/2021/07/22/for-millennials-and-gen-zs-social-issues-are-top-of-mind-heres-how-organizations-can-drive-meaningful-change/?sh=2db2623f450c
+11. Forbes: https://www.forbes.com/sites/deloitte/2021/07/22/for-millennials-and-gen-zs-social-issues-are-top-of-mind-heres-how-organizations-can-drive-meaningful-change/?sh=2db2623f450c
   
